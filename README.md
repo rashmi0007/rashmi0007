@@ -1,3 +1,2 @@
 - 👋 Hi, I’m @rashmi0007
-- 👀 I’m interested in learning Java
-- 🌱 I’m currently learning OOP's in Java
+- 🌱 I’m currently learning Python,SQL
