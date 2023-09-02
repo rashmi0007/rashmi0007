@@ -1,2 +1,2 @@
-- 👋 Hi, I’m @rashmi0007
-- 🌱 I’m currently learning Python,SQL
+- 👋 Hi, I’m Rashmi Ranjan Sahoo
+- 🌱 I’m currently learning Python & SQL.
