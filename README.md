@@ -1,2 +1,2 @@
 - 👋 Hi, I’m Rashmi Ranjan Sahoo
-- 🌱 I’m currently learning Python & SQL.
+- 🌱 I’m currently learning Kafka & Python.
